@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 500px;
+    
+    
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.logobox{
+    height: 100px;
+    width: 40%;
+    background-color:red;
+    float: left;
+    margin: auto;
+}
+nav{
+    height: 100px;
+    width:60%;
+    background-color: blue;
+    float: left;
+}
+.slide{
+    height: 400px;
+    background-color: indianred;
+}
+main{
+    margin: auto;
+    width: 80%;
+    min-height: 600px;
+    padding: 0;
+    overflow-y: auto;
+}
+
+.catagories{
+
+    height: 300px;
+    
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+.arival{
+
+    height: 80px;
+    background-color: aqua;
+    margin: auto;
+    width: 320px;
+}
+
+.catagory{
+    width: 32%;
+    height: 100%; 
+    
+    
+    
+}
+
+ 
+
+.cards{
+    height: auto;
+    background-color: blueviolet;
+    margin: auto;
+        
+}
+ .card{
+     width: 30%;
+     background-color: white;
+     height: 400px;
+     float: left;
+     margin: 13px;
+     margin-left: 18px;
+ }
+
+footer{
+    height: 200px;
+    width: 100%;
+    
+    
+}
+.slide img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.card img{
+    height: 100%;
+    width: 100%;
+}
+
+
+.social{
+   
+    width: 100%;
+    background-color:yellow;
+}
+.logofooter{
+    height :80px;
+    width : 220px;
+    margin: auto;
+}
+.social{
+    
+}
